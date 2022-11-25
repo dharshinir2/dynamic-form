@@ -1,0 +1,42 @@
+
+
+
+
+#big
+{
+  text-align: center;
+ 
+  border-style:groove;
+  padding: 5px 5px;
+margin-top: 15px;
+  margin-bottom: 50px;
+  margin-left: 550px;
+  margin-right: 550px;
+  background-color: rgb(255, 255, 165);
+  border-color: black;
+}
+#register
+{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  box-shadow: 15px;
+  color:black;
+  
+
+}
+.errorMsg
+{
+    color: red;
+    
+
+}
+#head
+{
+  text-align: center;
+}
+button
+{
+  size: 14px 16px;
+}
